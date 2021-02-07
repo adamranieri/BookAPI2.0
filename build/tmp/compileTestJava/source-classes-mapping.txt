@@ -1,6 +1,0 @@
-dev/ranieri/services/BookServiceTests.java
- dev.ranieri.services.BookServiceTests
-dev/ranieri/daotests/BookDaoTests.java
- dev.ranieri.daotests.BookDaoTests
-dev/ranieri/utiltests/ConnectionUtilTest.java
- dev.ranieri.utiltests.ConnectionUtilTest
