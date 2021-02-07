@@ -1,0 +1,48 @@
+(configsetroot=C:\WINDOWS\ConfigSetRoot
+#USERDOMAIN_ROAMINGPROFILE=AzureAD
+TCONN_CRED=jdbc:postgresql://35.226.135.224:5432/ToDoDB?user=adam&password=password
+1LOCALAPPDATA=C:\Users\AdamRanieri\AppData\Local
+PROCESSOR_LEVEL=6
+USERDOMAIN=AzureAD
+LOGONSERVER=\\REV-ADAMRANIERI
+,JAVA_HOME=C:\Program Files\Java\jdk-14.0.2
+SESSIONNAME=Console
+ ALLUSERSPROFILE=C:\ProgramData
+PROCESSOR_ARCHITECTURE=AMD64
+ PSModulePath=C:\Users\AdamRanieri\Documents\WindowsPowerShell\Modules;C:\Users\AdamRanieri\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell
+SystemDrive=C:
+(OneDrive=C:\Users\AdamRanieri\OneDrive
+.APPDATA=C:\Users\AdamRanieri\AppData\Roaming
+USERNAME=AdamRanieri
+-ChocolateyInstall=C:\ProgramData\chocolatey
+*ProgramFiles(x86)=C:\Program Files (x86)
+2CommonProgramFiles=C:\Program Files\Common Files
+ÕPath=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Go\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Kubernetes\Minikube;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\AdamRanieri\.amplify\bin;C:\Users\AdamRanieri\AppData\Local\Microsoft\WindowsApps;C:\Users\AdamRanieri\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\AdamRanieri\AppData\Roaming\npm;C:\Users\AdamRanieri\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\kotlin\kotlinc\bin;C:\Users\AdamRanieri\AppData\Local\Programs\Python\Python39\Scripts;
+?PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+3DriverData=C:\Windows\System32\Drivers\DriverData
+OS=Windows_NT
+PORT=5555
+0OneDriveConsumer=C:\Users\AdamRanieri\OneDrive
+COMPUTERNAME=REV-ADAMRANIERI
+UIPATH_LANGUAGE=en
+PROCESSOR_REVISION=8e0c
+CLASSPATH=.;
+2CommonProgramW6432=C:\Program Files\Common Files
+%ComSpec=C:\WINDOWS\system32\cmd.exe
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+HOMEPATH=\Users\AdamRanieri
+SystemRoot=C:\WINDOWS
++TEMP=C:\Users\ADAMRA~1\AppData\Local\Temp
+HOMEDRIVE=C:
+KPROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+"USERPROFILE=C:\Users\AdamRanieri
+*TMP=C:\Users\ADAMRA~1\AppData\Local\Temp
+=CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramFiles=C:\Program Files
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=8
+[UIPATH_USER_SERVICE_PATH=C:\Program Files (x86)\UiPath\Studio\UiPath.Service.UserHost.exe
+windir=C:\WINDOWS
+	=::=::\
+^IDEA_INITIAL_DIRECTORY=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin

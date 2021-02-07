@@ -1,0 +1,20 @@
+dev/ranieri/daos/LocalBookDAO.java
+ dev.ranieri.daos.LocalBookDAO
+dev/ranieri/entities/Book.java
+ dev.ranieri.entities.Book
+dev/ranieri/daos/BookDAO.java
+ dev.ranieri.daos.BookDAO
+dev/ranieri/services/BookService.java
+ dev.ranieri.services.BookService
+dev/ranieri/controllers/BookController.java
+ dev.ranieri.controllers.BookController
+dev/ranieri/exceptions/InvalidUpdateException.java
+ dev.ranieri.exceptions.InvalidUpdateException
+dev/ranieri/services/BookServiceImpl.java
+ dev.ranieri.services.BookServiceImpl
+dev/ranieri/app/App.java
+ dev.ranieri.app.App
+dev/ranieri/utils/ConnectionUtil.java
+ dev.ranieri.utils.ConnectionUtil
+dev/ranieri/daos/PostgresBookDAO.java
+ dev.ranieri.daos.PostgresBookDAO
